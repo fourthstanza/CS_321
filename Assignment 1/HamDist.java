@@ -1,7 +1,7 @@
 /** 
  * Name: Matthew Sylvester
- * Date: January 18th, 2022
- * Description: asdasd
+ * Date: January 14th, 2025
+ * Description: 
 */
 
 import java.util.*;
@@ -43,15 +43,6 @@ class HamDist {
             }
         }
 
-        /* Print out array
-        for (int[] row : arr) {
-            for (int i : row) {
-              System.out.print(i + " ");
-            }
-            System.out.print("\n");
-          }
-        */
-
         // Check to see if each char of serial is distinct for given position
         List<String> wash = new ArrayList<>();
 
@@ -68,7 +59,16 @@ class HamDist {
             }
         }
 
-        /* Print out elements to be hand washed
+        /* Optional: Print out array
+        for (int[] row : arr) {
+            for (int i : row) {
+              System.out.print(i + " ");
+            }
+            System.out.print("\n");
+          }
+        */
+
+        /* Optional: Print out elements to be hand washed
         for (String element : wash) {
             System.out.println(element);
         }
