@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad23e29c-688b-45c0-8bac-fc6f98c26752" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assignment 1/CS321_Assignment_1_Input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 1/HamDist.java" beforeDir="false" />
+    <list default="true" id="ad23e29c-688b-45c0-8bac-fc6f98c26752" name="Changes" comment="Consolidation of submissions">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SylvMat_Lab_02" beforeDir="false" afterPath="$PROJECT_DIR$/SylvMat_Lab_02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SylvMat_Lab_03" beforeDir="false" afterPath="$PROJECT_DIR$/SylvMat_Lab_03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SylvMat_Lab_04" beforeDir="false" afterPath="$PROJECT_DIR$/SylvMat_Lab_04" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,22 +39,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kitka/IdeaProjects/CS_321",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kitka/IdeaProjects/CS_321&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="CS_321" />
@@ -170,8 +172,18 @@
       <updated>1742325286902</updated>
       <workItem from="1742325288058" duration="681000" />
       <workItem from="1742326171009" duration="628000" />
-      <workItem from="1742519166150" duration="490000" />
+      <workItem from="1742519166150" duration="981000" />
+      <workItem from="1742523378155" duration="596000" />
     </task>
+    <task id="LOCAL-00001" summary="Consolidation of submissions">
+      <option name="closed" value="true" />
+      <created>1742519683347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742519683347</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,5 +199,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Consolidation of submissions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Consolidation of submissions" />
   </component>
 </project>
